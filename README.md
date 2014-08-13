@@ -10,7 +10,7 @@ The script downloads the following:
 * Grunt
 * Gulp
 
-> Note that this script assumes the end user is running Mac OSX and that `which bash` outpus `/bin/bash`
+> Note that this script assumes the end user is running Mac OSX and that `which bash` returns `/bin/bash`
 
 ## Usage
 
