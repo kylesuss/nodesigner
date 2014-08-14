@@ -1,6 +1,6 @@
 ![Nodesigner](http://i.imgur.com/xb2SsyP.png)
 
-A bash script to send to designers so that they can get started quickly with some modern front-end build techniques.
+A bash script to send to designers so that they can get started quickly with modern front-end build techniques.
 
 The script downloads the following:
 
