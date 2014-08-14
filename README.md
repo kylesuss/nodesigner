@@ -15,15 +15,5 @@ The script downloads the following:
 ## Usage
 
 ```shell
-# Clone the repository
-$ git clone git@github.com:kylesuss/nodesigner.git
-
-# Change into the nodesigner directory
-$ cd nodesigner
-
-# Make sure the file is executable
-$ chmod +x nodesigner.sh
-
-# Run the script
-$ ./nodesigner.sh
+$ curl https://raw.githubusercontent.com/kylesuss/nodesigner/master/nodesigner.sh | bash
 ```
